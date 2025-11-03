@@ -1,0 +1,6 @@
+Calculated Profit By Ratio
+Taken Fully : Charger
+Taken Fully : Food
+Taken Fully : Tents
+Taken Fraction : 44.4444% of item : Table
+Maximum utility value : 1533.33
